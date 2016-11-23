@@ -1,2 +1,0 @@
-# onjit
-this my thing
